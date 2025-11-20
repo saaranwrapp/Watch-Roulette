@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 # ---------- Page config ----------
 st.set_page_config(
     page_title="Watch Roulette",
-    page_icon="🎲",
+    page_icon="assets/cute-black-cat-png.png",
     layout="wide",
 )
 
